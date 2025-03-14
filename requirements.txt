@@ -1,0 +1,6 @@
+rest-assured
+org.testng
+i.o.qameta.allure:allure-testng
+com.fasterxml.jackson.core:jackson-databind
+org.slf4j:slf4j-api
+org.slf4j:slf4j-simple
